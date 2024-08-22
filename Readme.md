@@ -40,3 +40,6 @@ Data is fetched from samples.json.
 - **HTML5, CSS3, JavaScript**
 - **D3.js for data visualization**
 - **Plotly.js for interactive charts**
+  
+## References
+https://plot.ly/javascript/
