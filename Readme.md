@@ -8,8 +8,6 @@ This project visualizes data from the Belly Button Biodiversity dataset, enablin
 ├── static
 │ ├── js
 │ │ └── app.js
-│ └── css
-│ └── style.css
 └── README.md
 
 ## Features
